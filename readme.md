@@ -1,4 +1,4 @@
-IRC CLient
+IRC Client
 =======
 
 An IRC client coded in C. This project was completed in 2010.
